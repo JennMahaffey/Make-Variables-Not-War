@@ -1,7 +1,7 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-let myFirstName = "Kyl";
+let myFirstName = "Kyle";
 let myLastName = "Rose";
 let myBestFriend = "Arnold";
 let mySentence = "My name is " + myFirstName + myLastName + myBestFriend;
