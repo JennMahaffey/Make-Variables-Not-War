@@ -18,7 +18,9 @@ let myHeight = 62
 
 let myFavoriteYear = 2002
 
+let mySum = 3 + 1918 + 24 + 1
 
+let myProduct = 232 * 43 / 2 + 4
 
 
 
