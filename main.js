@@ -10,6 +10,11 @@ let myBestFriend = 'Debra'
 
 let mySentence = 'My name is, ' + myFirstName + ' ' + myLastName + "and my best friend is " + myBestFriend
 
+let myFavoriteNum = 7
+
+let myMentalAge = 23
+
+
 
 /*********************************************************************************************************************
 
