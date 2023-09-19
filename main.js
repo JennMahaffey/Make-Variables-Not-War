@@ -2,7 +2,13 @@
  * YOUR CODE BELOW *
  ******************/
 
+let myFirstName = 'Jennifer'
 
+let myLastName = 'Mahafffey'
+
+let myBestFriend = 'Debra'
+
+let mySentence = 'My name is, ' + myFirstName + ' ' + myLastName + "and my best friend is " + myBestFriend
 
 
 /*********************************************************************************************************************
