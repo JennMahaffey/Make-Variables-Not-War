@@ -1,21 +1,7 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-let myFirstName = "Jennifer";
-let myLastName = "Mahaffey";
-let myBestFriend = "Debra";
-let mySentence = "My name is " + myFirstName + myLastName + myBestFriend;
-let myFavoriteNum = 7;
-let myMentalAge = 30;
-let myHeight = 62;
-let myFavoriteYear = 2002;
-let mySum = 3 + 1918 + 24 + 1;
-let myProduct = 232 * 43 / 2 + 4;
-let myHeightAndAge = myMentalAge + myHeight;
- console.log('mySum');
- console.log('myProduct');
- console.log('myHeightAndAge');
-console.log('Hello, World');
+
 
 
 
